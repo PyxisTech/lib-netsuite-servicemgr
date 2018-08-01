@@ -3,6 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <RootNamespace>Celigo.ServiceManager.NetSuite</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.1.0</Version>
+    <Authors>CloudExtend.io, Sameera</Authors>
+    <Company>Celigo, CloudExtend.io</Company>
+    <Product>Celigo.ServiceManager.NetSuite (2016.2)</Product>
   </PropertyGroup>
 
   <ItemGroup>
